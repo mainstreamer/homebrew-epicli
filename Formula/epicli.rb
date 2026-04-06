@@ -1,8 +1,8 @@
 class Epicli < Formula
   desc "Shell environment manager — shortcuts, configs, and dev tools"
   homepage "https://github.com/mainstreamer/config"
-  url "https://github.com/mainstreamer/config/releases/download/v3.4.15/epicli-3.4.15.tar.gz"
-  sha256 "9f419e7db51eb22f137683035a7a5bafe55a5e81d2dcd71a11c011ad3cfeafb7"
+  url "https://github.com/mainstreamer/config/releases/download/v3.4.16/epicli-3.4.16.tar.gz"
+  sha256 "e7bfc58021d27df2a59fba933549ed79f1dfdede346bed4e79aee70c28aaf192"
   license "MIT"
 
   def install
